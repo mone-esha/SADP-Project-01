@@ -9,7 +9,7 @@ public class HotelTest
     {
         HotelReservationGUI frame = new HotelReservationGUI();
         frame.setTitle("Hotel Reservation System");
-        frame.setSize(400,400);
+        frame.setSize(900,400);
         frame.setLayout(new GridLayout(5,1));
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setLocationRelativeTo(null);
